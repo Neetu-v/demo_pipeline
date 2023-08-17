@@ -1,0 +1,14 @@
+README.md
+setup.py
+census-income/__init__.py
+census-income/components/__init__.py
+census-income/components/data_ingestion.py
+census-income/components/data_preprocessing.py
+census-income/components/data_validation.py
+census-income/components/model_evaluation.py
+census-income/components/model_trainer.py
+census_income.egg-info/PKG-INFO
+census_income.egg-info/SOURCES.txt
+census_income.egg-info/dependency_links.txt
+census_income.egg-info/requires.txt
+census_income.egg-info/top_level.txt
